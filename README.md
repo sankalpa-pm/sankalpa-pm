@@ -2,7 +2,7 @@
 
 IIT × IIM | LinkedIn Top Voice | Award-Winning AI Product Leader | $1B+ Business Impact | Building AI Products That Scale
 
-[![LinkedIn](https://shields.io)](https://linkedin.com) &nbsp; [![X](https://shields.io)](https://x.com) &nbsp; [![YouTube](https://shields.io)](https://youtube.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com) &nbsp; [![X/Twitter](https://shields.io)](https://x.com) &nbsp; [![YouTube](https://shields.io)](https://youtube.com)
 
 I am an AI Product Leader and the founder of **MeraTalent**. Over the past 12+ years, I've built and scaled products across Walmart, MobiKwik, Axis Bank, and HDFC Bank, delivering over $1B+ in business impact across retail, fintech, payments, and AI.
 
@@ -32,7 +32,7 @@ Alongside building, I write and create content about AI × Fintech for a communi
 
 ---
 
-## 📺 On My YouTube Channel
+## 📺 On My Linkedin 
 I share practical strategies backed by real experience—not theory—covering:
 * **AI-Powered Career Growth** & job search workflows.
 * **Product Management & Leadership** from real-world execution.
