@@ -26,9 +26,6 @@ Alongside building, I write and create content about AI × Fintech for a communi
 * **MeraTalent** 
   * AI-assisted job search and recruitment tooling. 
   * Features an async job queue and a decomposed LLM scoring pipeline for candidate-to-role matching.
-* **FileKar** 
-  * GST compliance layer for Indian freelancers and solopreneurs. 
-  * Integrates seamlessly on top of existing invoicing tools.
 * **AI Job Search Workflows** 
   * Automated application pipelines built with Claude, n8n, and custom skills. 
   * Active contributor to the [job-search-project](https://github.com) fork.
