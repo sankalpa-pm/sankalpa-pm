@@ -1,6 +1,6 @@
 # Hi, I'm Sankalpa 👋
 
-Product manager who builds. 12 years shipping AI-powered platforms across fintech and e-commerce — Walmart, MobiKwik, Axis Bank, HDFC Bank, ICICI Lombard.
+Product manager who builds. 12 years shipping AI-powered platforms across fintech and e-commerce - Walmart, MobiKwik, Axis Bank, HDFC Bank, ICICI Lombard.
 
 These days I spend most of my time building tools for the Indian job market and compliance space, and writing about AI × fintech for 10,000+ followers on LinkedIn.
 
